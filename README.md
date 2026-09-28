@@ -17,23 +17,14 @@ BTech (Minor Computer Science, Major Biotechnology) @ Delhi Technological Univer
 <img src="https://skdevaneportfolio.pages.dev/random_images/vlc_meme.jpeg" width="280"/>
 </td></tr></table>
 
-<!--![VLC](https://img.shields.io/badge/VLC-FF8800?style=flat&logo=vlcmediaplayer&logoColor=white) -->
-[![VideoLAN Profile](https://img.shields.io/badge/VideoLAN-Profile-lightgrey?style=flat&logo=vlcmediaplayer&logoColor=white&labelColor=FF8800)](https://code.videolan.org/AmazingCoder1203) <!--**[VideoLAN / VLC](https://code.videolan.org/videolan/vlc)**--> — Merged contributions  
-*C++, Qt, QML · Used by 200M+ users*
+[![VideoLAN Profile](https://img.shields.io/badge/VideoLAN-Profile-lightgrey?style=flat&logo=vlcmediaplayer&logoColor=white&labelColor=FF8800)](https://code.videolan.org/AmazingCoder1203) — Active contributor · [8 merged commits](https://github.com/videolan/vlc/commits?author=skdevane)  
+*C++, Qt, QML · VLC is used by 200M+ people*
 
-### Merged
-
-- Added a Volume gain `QDoubleSpinBox` (0–400%) to the Qt Convert/Save profile editor, eliminating the need for command-line workarounds to boost audio on low-volume files.
-  🔗 [Merge Request !9368](https://code.videolan.org/videolan/vlc/-/merge_requests/9368)
-- Traced broken search/sort in Radio Browser's Discover tab to missing QML bindings (`searchPattern`, `sortOrder`) in `ServicesHomeDisplay.qml` — fix shipped in **VLC 4.0**, enabling instant filtering across 30,000+ stations for millions of users.
-  🔗 [Merge Request !9463](https://code.videolan.org/videolan/vlc/-/merge_requests/9463)
-- Resolved a QML selection bug in the shared `ExpandGridView` base component where right-clicking an unselected grid item displayed a reduced context menu due to missing selection model updates.
-  🔗 [Merge Request !9559](https://code.videolan.org/videolan/vlc/-/merge_requests/9559)
-<!--### Approved / Waiting for Merge-->
-- Fixed the broken zoom-in (`Ctrl++`/`Ctrl+=`) and zoom-out shortcuts by mapping explicit keyboard sequences alongside QML's `StandardKey` definitions, ensuring interface zoom hotkeys work reliably across all keyboard layouts.
-  🔗 [Merge Request !9594](https://code.videolan.org/videolan/vlc/-/merge_requests/9594)
-- Resolved a search regression in the Radio Browser's Discover tab by restoring decentralized QML bindings in `ServicesHomeDisplay.qml`, reconnecting the `BrowseTreeDisplay` search input to the underlying media and device models.
-  🔗 [Merge Request !9599](https://code.videolan.org/videolan/vlc/-/merge_requests/9599)
+- **Audio gain control:** added a 0–400% volume gain option to the Convert/Save profile editor, so users can boost quiet files without command-line workarounds ([!9368](https://code.videolan.org/videolan/vlc/-/merge_requests/9368))
+- **Radio Browser search and sort:** traced the broken search and sort in the Discover tab to missing QML bindings and fixed it, including a later regression ([!9463](https://code.videolan.org/videolan/vlc/-/merge_requests/9463), [!9599](https://code.videolan.org/videolan/vlc/-/merge_requests/9599))
+- **Context menu bug:** fixed the reduced right-click menu on unselected items in the shared grid view component ([!9559](https://code.videolan.org/videolan/vlc/-/merge_requests/9559))
+- **Zoom shortcuts:** fixed Ctrl++ / Ctrl+= zoom-in so it works reliably ([!9594](https://code.videolan.org/videolan/vlc/-/merge_requests/9594))
+- **Other UI fixes:** mute button state, Continue Watching navigation, header title on small windows, and list transitions ([full history](https://github.com/videolan/vlc/commits?author=skdevane))
 
 
 <br clear="both">
