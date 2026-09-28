@@ -36,7 +36,7 @@ BTech (Minor Computer Science, Major Biotechnology) @ Delhi Technological Univer
 <b>Always Open to New Opportunities</b> 🐿️
 </td></tr></table> -->
 
-**Data Analyst (Intern → Full-Time), TickerTactics Algorithms LLP** · Aug 2025 – Present
+**Data Analyst (Intern), TickerTactics Algorithms LLP** · Aug 2025 – Jan 2026
 
 - Processed daily market feeds from 4 broker APIs (Zerodha, Dhan, ICICI, Upstox) across large historical datasets
 - Redesigned the data pipeline (AWS S3 + Athena querying), cutting analytical query latency by 35%
