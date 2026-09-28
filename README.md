@@ -17,7 +17,7 @@ BTech (Minor Computer Science, Major Biotechnology) @ Delhi Technological Univer
 <img src="https://skdevaneportfolio.pages.dev/random_images/vlc_meme.jpeg" width="280"/>
 </td></tr></table>
 
-[![VideoLAN Profile](https://img.shields.io/badge/VideoLAN-Profile-lightgrey?style=flat&logo=vlcmediaplayer&logoColor=white&labelColor=FF8800)](https://code.videolan.org/AmazingCoder1203) — Active contributor · [8 merged commits](https://github.com/videolan/vlc/commits?author=skdevane)  
+[![VideoLAN Profile](https://img.shields.io/badge/VideoLAN-Profile-lightgrey?style=flat&logo=vlcmediaplayer&logoColor=white&labelColor=FF8800)](https://code.videolan.org/AmazingCoder1203) - Active contributor · [8 merged commits](https://github.com/videolan/vlc/commits?author=skdevane)  
 *C++, Qt, QML · VLC is used by 200M+ people*
 
 - **Audio gain control:** added a 0–400% volume gain option to the Convert/Save profile editor, so users can boost quiet files without command-line workarounds ([!9368](https://code.videolan.org/videolan/vlc/-/merge_requests/9368))
@@ -46,15 +46,15 @@ BTech (Minor Computer Science, Major Biotechnology) @ Delhi Technological Univer
 
 ## 🚀 Featured Projects
 
-**[BrieflyAI](https://briefly-ai-khaki.vercel.app/)** — Autonomous Competitive Intelligence Agent
+**[BrieflyAI](https://briefly-ai-khaki.vercel.app/)** - Autonomous Competitive Intelligence Agent
 `Python` `FastAPI` `Gemini 1.5 Flash` `Tavily API` `React Vite` `SSE`
 Orchestrates multi-turn web search across 10+ queries to generate structured SWOT/competitor dossiers in under 90s, streaming tool calls live to the frontend via SSE.
 
-**[Rica AI](https://rica-ai-chi.vercel.app/)** — Autonomous Project Feasibility Analyser
+**[Rica AI](https://rica-ai-chi.vercel.app/)** - Autonomous Project Feasibility Analyser
 `Python` `FastAPI` `Gemini 1.5 Flash` `React Vite`
 Conversational agent that interviews users about a project, extracting KPIs, risk flags, and ROI estimates from unstructured input to produce audit-ready feasibility reports.
 
-**[NSE Market Analysis Dashboard](https://nsemarketanalysis.pages.dev/)** — [Repo](https://github.com/Amazing-coder1203/NSE_Market_Analysis)
+**[NSE Market Analysis Dashboard](https://nsemarketanalysis.pages.dev/)** - [Repo](https://github.com/Amazing-coder1203/NSE_Market_Analysis)
 `Python` `Pandas` `PostgreSQL` `Power BI` `yfinance`
 Cleaned 3 years of OHLCV data across 200+ tickers and 10 NIFTY sectors; built a Sharpe-optimized portfolio (Modern Portfolio Theory) that returned **120.9%** cumulative vs NIFTY 50's 27.7% (**+93.2% alpha**).
 
