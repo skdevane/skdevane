@@ -17,7 +17,7 @@ BTech (Minor Computer Science, Major Biotechnology) @ Delhi Technological Univer
 <img src="https://skdevaneportfolio.pages.dev/random_images/vlc_meme.jpeg" width="280"/>
 </td></tr></table>
 
-[![VideoLAN Profile](https://img.shields.io/badge/VideoLAN-Profile-lightgrey?style=flat&logo=vlcmediaplayer&logoColor=white&labelColor=FF8800)](https://code.videolan.org/AmazingCoder1203) - Active contributor · [8 merged commits](https://github.com/videolan/vlc/commits?author=skdevane)  
+[![VideoLAN Profile](https://img.shields.io/badge/VideoLAN-Profile-lightgrey?style=flat&logo=vlcmediaplayer&logoColor=white&labelColor=FF8800)](https://code.videolan.org/skdevane) - Active contributor · [8 merged commits](https://github.com/videolan/vlc/commits?author=skdevane)  
 *C++, Qt, QML · VLC is used by 200M+ people*
 
 - **Audio gain control:** added a 0–400% volume gain option to the Convert/Save profile editor, so users can boost quiet files without command-line workarounds ([!9368](https://code.videolan.org/videolan/vlc/-/merge_requests/9368))
